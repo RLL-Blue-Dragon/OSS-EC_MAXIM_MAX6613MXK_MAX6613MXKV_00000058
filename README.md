@@ -1,0 +1,2 @@
+# OSS-EC_MAXIM_MAX6613MXK_MAX6613MXKV_00000058
+A library of Maxim Integrated's MAX6613MXK, MAX6613MXK/V temperature sensor
